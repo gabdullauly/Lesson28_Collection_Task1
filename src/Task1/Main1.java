@@ -1,7 +1,5 @@
 /*
 1) Дан массив размера N. Вывести его элементы в обратном порядке
-3) Дан массив размера N. Найти среднее арифметическое всех элементов массива
-4) Create a list of strings, output the contents to the console.
  */
 
 package Task1;
